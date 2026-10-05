@@ -1,0 +1,17 @@
+{
+  "number": "INV-2026-0142",
+  "date": "2026-10-04",
+  "due": "2026-11-03",
+  "currency": "$",
+  "tax_rate": 0.08,
+  "from": { "name": "Pavan Komma LLC", "address": ["221 Market St", "San Francisco, CA 94105"], "email": "billing@invalid.example" },
+  "to":   { "name": "Contoso Ltd.", "address": ["1 Harbour Way", "Seattle, WA 98101"], "email": "ap@invalid.example" },
+  "items": [
+    { "description": "Brand discovery workshop", "qty": 1,  "price": 1800 },
+    { "description": "Logo & identity system",    "qty": 1,  "price": 4200 },
+    { "description": "Website design (pages)",    "qty": 6,  "price": 650 },
+    { "description": "Frontend development (hrs)", "qty": 32, "price": 95 },
+    { "description": "Hosting setup",             "qty": 1,  "price": 250 }
+  ],
+  "notes": "Payment by bank transfer within 30 days. Thank you for your business!"
+}

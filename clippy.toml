@@ -1,0 +1,2 @@
+# Function length budget (40 lines), matching canopy's coding conventions.
+too-many-lines-threshold = 40
